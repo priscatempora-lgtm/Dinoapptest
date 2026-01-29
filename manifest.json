@@ -1,7 +1,8 @@
 {
   "name": "Dinopedia",
   "short_name": "Dinopedia",
-  "start_url": "./",
+  "start_url": "/Dinoapptest/",
+  "scope": "/Dinoapptest/",
   "display": "standalone",
   "background_color": "#FAFAFA",
   "theme_color": "#2D5A27",

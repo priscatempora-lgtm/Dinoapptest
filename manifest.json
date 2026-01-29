@@ -1,0 +1,21 @@
+{
+  "name": "Dinopedia",
+  "short_name": "Dinopedia",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#2D5A27",
+  "description": "An interactive educational application for exploring the world of dinosaurs.",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/icon192/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/icon512/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
